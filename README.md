@@ -23,6 +23,7 @@
 
 
 <a href="https://github.com/AsadSheikhJ/AsadSheikhJ"><img align="center" src="https://github-readme-stats-cth8rz6s9-asad-sheikh.vercel.app/api?username=AsadSheikhJ&show_icons=true&include_all_commits=true&theme=buefy&count_private=true" alt="Asad's github stats" /></a>
+[![Top Langs](https://github-readme-stats-cth8rz6s9-asad-sheikh.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)]
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> -->
 
 
