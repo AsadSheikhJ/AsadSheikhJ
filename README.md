@@ -3,11 +3,11 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer.
+<!-- I'm a self-taught passionate FrontEnd developer. -->
 
 **About me**
 
-- 💼 FrontEnd Engineer at []()
+<!-- - 💼 FrontEnd Engineer at []() -->
 
 <!-- - 📈  -->
 
