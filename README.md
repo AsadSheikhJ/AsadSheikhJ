@@ -5,7 +5,7 @@
 
 
 
-<a href="https://github.com/AsadSheikhJ/AsadSheikhJ"><img align="center" src="https://i.imgur.com/4kansHB.gif" alt="Asad's Info" /></a>
+<!-- <a href="https://github.com/AsadSheikhJ/AsadSheikhJ"><img align="center" src="https://i.imgur.com/4kansHB.gif" alt="Asad's Info" /></a> -->
 
 <!-- I'm a self-taught passionate FrontEnd developer. -->
 
