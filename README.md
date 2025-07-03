@@ -26,9 +26,9 @@
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>     -->
 
 
-<a href="https://github.com/AsadSheikhJ/AsadSheikhJ"><img align="center" src="https://github-readme-stats-liart-two-62.vercel.app/api?username=AsadSheikhJ&show_icons=true&include_all_commits=true&theme=buefy&count_private=true" alt="Asad's github stats" /></a>
+<a href="https://github.com/AsadSheikhJ/AsadSheikhJ"><img align="center" src="https://github-readme-stats-liart-two-62.vercel.app/api?username=AsadSheikhJ&show_icons=true&hide_rank=true&include_all_commits=true&theme=buefy&count_private=true" alt="Asad's github stats" /></a>
 
-<a href="https://github.com/AsadSheikhJ/AsadSheikhJ"><img align="center" src="https://github-readme-stats-liart-two-62.vercel.app/api/top-langs/?username=AsadSheikhJ&theme=buefy" alt="Asad's github stats" /></a>
+<a href="https://github.com/AsadSheikhJ/AsadSheikhJ"><img align="center" src="https://github-readme-stats-liart-two-62.vercel.app/api/top-langs/?username=AsadSheikhJ&layout=compact&theme=buefy" alt="Asad's github stats" /></a>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> -->
 
