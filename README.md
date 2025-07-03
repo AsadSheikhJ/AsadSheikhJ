@@ -37,10 +37,10 @@
 
 
 <a href="https://github.com/AsadSheikhJ/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-phi-eight-28.vercel.app/api/pin/?username=AsadSheikhJ&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-xi-blush.vercel.app/api/pin/?username=AsadSheikhJ&repo=github-readme-stats&theme=buefy" />
 </a> -->
 <!-- <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats-phi-eight-28.vercel.app/api/pin/?username=AsadSheikhJ&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-xi-blush.vercel.app/api/pin/?username=AsadSheikhJ&repo=anuraghazra.github.io&theme=buefy" />
 </a> -->
 
 <br />
